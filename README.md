@@ -5,6 +5,8 @@ This repository has been a long time goal of mine. I went through grad school an
 
 Through this series I hope to cover just about everything that can be found on this development kit, and with the expansion IO on board, we can cover some new topics for myself. The hope here is that through this series, I learn some new things as I try to explain it to others.
 
+If there ever was a prerequisit to understanding the content here I think most people who find this will meet the need to have a basic understanding of digital logic: AND gates, OR gates, basic binary and if you understand combinational vs sequential circuits that's a big plus.
+
 ## Software
 [Quartus Prime Pro 26.1](https://www.altera.com/downloads/fpga-development-tools/quartus-prime-pro-edition-design-software-version-26-1-windows)
 Windows 11
