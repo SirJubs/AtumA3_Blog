@@ -34,7 +34,7 @@ The Quartus Prime Pro Edition Help (A nice to have)
 Quartus Prime Pro Edition Programmer and Tools. (The main programme and utility tools)
 
 Next we'll need to license the software. You can do this while things are downloading.
-Head to the [Self Service Licensing Center](https://licensing.altera.com/sslc) and make an account there. Once done and confirmed through your email, log in and go to the "Sign up for Evaluation or No-Cost Licenses", and grab the "Quartus Prime Software 90-Day Evaluation". Register a computer by adding a new computer, give it a name, select fixed license, Select NIC ID Computer Type and put in your computers NIC id into the Primary Computer ID Field (look up on google if you need some help here). Save that computer, and generate the license. They will email it to you. 
+Head to the [Self Service Licensing Center](https://licensing.altera.com/sslc) and make an account there. Once done and confirmed through your email, log in and go to the "Sign up for Evaluation or No-Cost Licenses", and grab the "Quartus Prime Software 90-Day Evaluation". Register a computer by adding a new computer, give it a name, select fixed license, Select NIC ID Computer Type and put in your computers NIC id into the Primary Computer ID Field (look up on google if you need some help here). Save that computer, and generate the license. They will email it to you. If your license ever expires, you can generate a new one with the same process. 
 
 Once all the software is installed you can open up quartus, get any no-cost licenses they offer you, and go Tools -> License Setup and select your 90-day license with the license file field. 
 
